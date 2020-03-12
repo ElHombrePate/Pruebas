@@ -6,6 +6,6 @@
              mc:Ignorable="d"
              x:Class="Pruebas.App">
     <Application.Resources>
-
+        <StyleSheet Source="style.css" />
     </Application.Resources>
 </Application>
